@@ -479,7 +479,7 @@ ellipse(530,10,200,320,40,50);
 putpixel(540,65,4);
 setfillstyle(1,15);
 floodfill(540,65,15);
-outtextxy(460,460,"Made By: Ruchika Fulzele ");
+outtextxy(460,460,"Made By: Pranav Pimpalkar");
 while(star!=500)
 {
 putpixel;
